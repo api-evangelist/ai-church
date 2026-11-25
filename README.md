@@ -66,7 +66,7 @@
 
 AI Church provides production AI engineering and consulting services, helping teams automate workflows with AI agents, retrieval-augmented generation, and cloud infrastructure. Based in Kent, UK, founder Vadim offers end‑to‑end AI system design, building and shipping AI products to production. The company emphasizes no‑lock‑in engagements, free assessments, and tailored solutions for repetitive tasks, aiming to free teams from manual work and accelerate AI adoption.
 
-**Areas:** AI · Engineering · Consulting · Automation · Machine-Learning
+**Areas:** Artificial Intelligence · Engineering · Consulting · Automation · Machine Learning
 
 ## AI Church on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai Church Domain Security](https://apis.io/security/ai-church/ai-church-domain-security/)
+- [AI Church Domain Security](https://apis.io/security/ai-church/ai-church-domain-security/)
 
 ## Where to find this API
 
@@ -92,7 +92,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 7.5** — minimal · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 6.2** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -100,10 +100,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 16.7 |
+| Developer ergonomics | 14.3 |
 | Access clarity | 0.0 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 21.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -128,8 +128,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai-church/](https://apis.io/providers/ai-church/).
 
